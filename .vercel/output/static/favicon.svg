@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Native Bases">
+  <!-- Cream plate, ink hairline. Discs are the ±1 unit step, no type. -->
+  <rect x="1.5" y="1.5" width="29" height="29" rx="5"
+        fill="#F2EDE4" stroke="#1C1915" stroke-width="1.5"/>
+  <line x1="13.6" y1="16" x2="18.4" y2="16"
+        stroke="#1C1915" stroke-width="1.75" stroke-linecap="butt"/>
+  <circle cx="10.1" cy="16" r="4.35" fill="#1C1915"/>
+  <circle cx="21.9" cy="16" r="4.35" fill="#F2EDE4" stroke="#1C1915" stroke-width="1.55"/>
+</svg>
